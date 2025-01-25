@@ -1,0 +1,22 @@
+{
+    "gallery1": {
+        "title": "CAREER FAIR 24",
+        "description": "21 August 2024, 10:00 am - 5:00 pm, Dewan Tun Canselor, Multimedia University Cyberjaya.",
+        "images": ["gallery1.jpg", "/CE24/img1.jpg", "/CE24/img2.jpg","/CE24/img3.jpg","/CE24/img4.jpg"]
+    },
+    "gallery2": {
+        "title": "Club & Society Recruitment Week",
+        "description": "The Recruitment Week was a great opportunity for students to explore various clubs and societies on campus.",
+        "images": ["gallery2.jpg", "/csrw/img1.jpg", "/csrw/img2.jpg","/csrw/img3.jpg","/csrw/img4.jpg"]
+    },
+    "gallery3": {
+        "title": "CEC Onboarding Day",
+        "description": "Our Onboarding Day welcomed new members to the Career Express Club with fun activities and team-building exercises.",
+        "images": ["gallery3.jpg", "/OD/img1.jpg", "/OD/img2.jpg","/OD/img3.jpg"]
+    },
+    "gallery4": {
+        "title": "TRX Industrial Visit",
+        "description": "7 November 2024, 9:30 am - 1:30 pm, TRX Industrial Visit.",
+        "images": ["gallery4.jpg", "/trx/img1.jpg","/trx/img2.jpg","/trx/img3.jpg","/trx/img4.jpg","/trx/img5.jpg"]
+    }
+}
